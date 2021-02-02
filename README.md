@@ -6,5 +6,5 @@ This action checks the automated tests in projects building with Laravel Framewo
 ```
 steps:
   - name: Laravel Test Action
-    uses: hdev14/laravel-test-action@v1
+    uses: lucasemanuel/laravel-test-action@v2
 ```
