@@ -1,4 +1,4 @@
-FROM composer:latest
+FROM composer:2.0.8
 
 RUN apk update && \
     apk add --no-cache \
